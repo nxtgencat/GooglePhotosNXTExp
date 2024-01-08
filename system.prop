@@ -1,0 +1,9 @@
+ro.product.system.brand=Google
+ro.product.system.manufacturer=Google
+ro.product.system.model=Pixel 3 XL
+ro.product.model=Pixel 3 XL
+ro.product.brand=Google
+ro.product.manufacturer=Google
+persist.vendor.camera.manufacturer=Google
+persist.vendor.camera.model=Pixel 3 XL
+ro.opa.eligible_device=true
