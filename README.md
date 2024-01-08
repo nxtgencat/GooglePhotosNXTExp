@@ -9,5 +9,5 @@
 
 ### ⭐ Installation
 - Flash the module
-NOTE: Flash the module zip file in the Magisk Manager app
+- (NOTE: Flash the module zip file in the Magisk Manager app)
 - Make sure zygisk is activated
