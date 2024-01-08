@@ -1,6 +1,5 @@
 # GooglePhotosNXTExperience
-## Google Photos Unlimited Backup 
-## Exclusive Features Magisk Module
+## Google Photos Unlimited Backup and Exclusive Features Magisk Module
 
 ### ⭐ Requirements
 - Supported Android Versions: Android 7.0 to Android 13
